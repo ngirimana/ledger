@@ -1,2 +1,2 @@
 # ledger
- UI design
+ UI design template
